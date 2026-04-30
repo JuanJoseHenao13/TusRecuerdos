@@ -1,0 +1,3 @@
+[submodule "tus-recuerdos"]
+	path = tus-recuerdos
+	url = https://github.com/JuanJoseHenao13/Tus_Recuerdos.git
